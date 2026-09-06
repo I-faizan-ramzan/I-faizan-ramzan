@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Faizan%20Ramzan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Next.js+%2B+TypeScript+Developer;AI+Agent+Builder;Building+SaaS+Products;Cloudflare+Workers+%2B+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Next.js+%2B+TypeScript+Developer;AI+Agent+Builder;Building+SaaS+Products;Cloudflare+Workers+%2B+MongoDB" />
 
 </div>
 
@@ -57,7 +57,7 @@ const faizan = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-faizan-ramzan&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=I-faizan-ramzan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=I-faizan-ramzan&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -67,7 +67,7 @@ const faizan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=I-faizan-ramzan&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=I-faizan-ramzan&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
