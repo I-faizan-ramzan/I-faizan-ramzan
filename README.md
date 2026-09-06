@@ -67,7 +67,9 @@ const faizan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=I-faizan-ramzan&theme=tokyo-night&hide_border=true&area=true" />
+<a href="https://github.com/I-faizan-ramzan?tab=overview&from=2024-01-01&to=2024-12-31">
+<img src="https://ghchart.rshah.org/I-faizan-ramzan" alt="Contribution Graph" />
+</a>
 
 </div>
 
@@ -77,7 +79,7 @@ const faizan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=I-faizan-ramzan&theme=tokyonight&no-frame=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=I-faizan-ramzan&theme=tokyonight&no-frame=true&margin-w=8&margin-h=15" />
 
 </div>
 
