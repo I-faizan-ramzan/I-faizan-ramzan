@@ -96,6 +96,16 @@ const faizan = {
 
 ---
 
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophies.vercel.app/?username=I-faizan-ramzan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## 📈 Activity & Contribution Graph
 
 <div align="center">
