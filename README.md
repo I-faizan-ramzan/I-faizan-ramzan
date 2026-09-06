@@ -53,6 +53,10 @@ const faizan = {
 
 ## 🤖 Featured AI, SaaS & Web Projects
 
+<p align="center">
+  <img src="assets/ai-backend-banner.svg" alt="AI Systems and Backend Engineering Banner" width="100%" />
+</p>
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **AgentMax** | AI agent platform for business automation, customer support, lead qualification, and booking pipelines. | `Next.js` `TypeScript` `AI Agents` `APIs` |
@@ -96,9 +100,27 @@ const faizan = {
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
+
+<a href="https://github.com/I-faizan-ramzan?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="105" alt="Achievement: Pull Shark" title="Pull Shark — Merged Pull Requests" />
+</a>
+<a href="https://github.com/I-faizan-ramzan?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="105" alt="Achievement: Quickdraw" title="Quickdraw — Closed issue/PR within 5 minutes" />
+</a>
+<a href="https://github.com/I-faizan-ramzan?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="105" alt="Achievement: YOLO" title="YOLO — Merged pull request without code review" />
+</a>
+
+<br/>
+
+<a href="https://github.com/I-faizan-ramzan?tab=achievements">
+  <img src="https://img.shields.io/badge/View_Official_Achievements-I--faizan--ramzan-2563eb?style=for-the-badge&logo=github" alt="View GitHub Achievements" />
+</a>
+
+<br/><br/>
 
 <img src="https://github-profile-trophies.vercel.app/?username=I-faizan-ramzan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 
@@ -150,7 +172,11 @@ const faizan = {
 <details>
 <summary><strong>🎨 Frontend Web & UI Clones</strong></summary>
 <br/>
-  
+
+<p align="center">
+  <img src="assets/frontend-clones-banner.svg" alt="Frontend and UI Clones Banner" width="100%" />
+</p>
+
 | Repository | Description | Key Tech |
 | :--- | :--- | :--- |
 | [**Weather-App**](https://github.com/I-faizan-ramzan/Weather-App) | Real-time interactive weather forecasting web application | React.js, OpenWeather API |
