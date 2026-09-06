@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Faizan%20Ramzan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Engineer%20%7C%20React%20Native%20%7C%20AI%20Builder&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Faizan%20Ramzan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20App%20Engineer%20%7C%20React%20Native%20%7C%20AI%20Builder&descAlignY=60&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+%26+Mobile+App+Engineer;React+Native+%2B+Expo+Specialist;Next.js+%2B+TypeScript+Developer;AI+Agent+%26+Automation+Builder;Building+High-Performance+SaaS+%26+Mobile+Apps" />
 
