@@ -54,6 +54,10 @@ I build web and mobile products with a focus on practical business value, clean 
   </tr>
 </table>
 
+## Selected Stack
+
+`React` `Next.js` `React Native` `Expo` `Node.js` `Express` `MongoDB` `Tailwind CSS` `TypeScript`
+
 ## Featured Projects
 
 | Project | Focus | Stack |
@@ -67,7 +71,8 @@ I build web and mobile products with a focus on practical business value, clean 
 
 ## All Public Projects
 
-### Frontend and Landing Pages
+<details open>
+<summary><strong>Frontend and Landing Pages</strong></summary>
 
 | Repository | Summary |
 | --- | --- |
@@ -82,11 +87,10 @@ I build web and mobile products with a focus on practical business value, clean 
 | [spotify-clone](https://github.com/I-faizan-ramzan/spotify-clone) | Spotify-style clone. |
 | [understandingEvents](https://github.com/I-faizan-ramzan/understandingEvents) | React events practice project. |
 
-### Visual Notes
+</details>
 
-The top of this README uses local SVG artwork so the profile stays polished without relying on broken remote card services.
-
-### Mobile Apps
+<details>
+<summary><strong>Mobile Apps</strong></summary>
 
 | Repository | Summary |
 | --- | --- |
@@ -97,7 +101,10 @@ The top of this README uses local SVG artwork so the profile stays polished with
 | [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) | Mobile stock trading app built with Expo, React Native, and Tailwind CSS. |
 | [user-authentication-a-React-Native-App](https://github.com/I-faizan-ramzan/user-authentication-a-React-Native-App) | React Native authentication app. |
 
-### Backend and MERN
+</details>
+
+<details>
+<summary><strong>Backend and MERN</strong></summary>
 
 | Repository | Summary |
 | --- | --- |
@@ -106,7 +113,10 @@ The top of this README uses local SVG artwork so the profile stays polished with
 | [impact_analyzer](https://github.com/I-faizan-ramzan/impact_analyzer) | Project repository for impact analysis work. |
 | [NextSkills](https://github.com/I-faizan-ramzan/NextSkills) | Practice repository for Next.js and related work. |
 
-### Practice, Quizzes, and Profile
+</details>
+
+<details>
+<summary><strong>Practice, Quizzes, and Profile</strong></summary>
 
 | Repository | Summary |
 | --- | --- |
@@ -117,6 +127,12 @@ The top of this README uses local SVG artwork so the profile stays polished with
 | [Quiz3makeup](https://github.com/I-faizan-ramzan/Quiz3makeup) | Quiz practice repository. |
 | [FaizanGMTRNO](https://github.com/I-faizan-ramzan/FaizanGMTRNO) | Personal practice or utility repository. |
 | [I-faizan-ramzan](https://github.com/I-faizan-ramzan/I-faizan-ramzan) | Profile README and portfolio repository. |
+
+</details>
+
+## Visual Notes
+
+The top and bottom of this README use local SVG artwork so the profile stays polished without relying on broken remote card services.
 
 ## What I Am Learning
 
