@@ -1,103 +1,141 @@
-# Faizan Ramzan
+<div align="center">
 
-Full Stack Software Engineer focused on React, Next.js, React Native, Node.js, and AI-driven product work.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Faizan%20Ramzan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" />
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Next.js+%2B+TypeScript+Developer;AI+Agent+Builder;Building+SaaS+Products;Cloudflare+Workers+%2B+MongoDB" />
 
-I build web and mobile products with a strong focus on practical business value, clean architecture, and fast delivery.
+</div>
 
-Current interests:
+---
 
-- AI agents and workflow automation
-- SaaS products and admin dashboards
-- React Native apps
-- MERN / Node.js backends
-- Cloudflare edge deployments
+## 👨‍💻 About Me
 
-## Stack
+I am a **Mid-Level Software Engineer** passionate about building **high-performance, scalable mobile and web applications**.
 
-- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- Mobile: React Native, Expo
-- Backend: Node.js, Express, MongoDB, Mongoose
-- Tooling: Git, GitHub, Docker, Postman
-- Cloud / AI: Cloudflare Workers, AI automation, agent workflows
+I work with modern JavaScript technologies and love creating real-world products, dashboards, SaaS platforms, and AI-powered automation systems.
 
-## GitHub Snapshot
+```ts
+const faizan = {
+  role: "Full Stack Software Engineer",
+  location: "Pakistan 🇵🇰",
+  focus: ["MERN Stack", "Next.js", "TypeScript", "AI Agents", "SaaS"],
+  building: ["AgentMax", "FastFly", "AI Business Automation"],
+  learning: ["Agentic AI", "LLMs", "RAG", "System Design"],
+  goal: "Build useful products that solve real business problems",
+};
+```
 
-- Public original repositories: 27
-- Profile repo: `I-faizan-ramzan`
-- Main focus areas: web apps, mobile apps, backend systems, and practice projects
-- Location: Pakistan
+---
 
-## Featured Projects
+## 🚀 What I Build
 
-- [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) - Mobile stock trading app built with Expo, React Native, and Tailwind CSS.
-- [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) - React Native expense tracker with stack navigation, nested tabs, and Context API state management.
-- [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) - React Native meal app with drawer navigation and Redux Toolkit.
-- [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) - Collection of Node.js and server-side projects.
-- [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) - MERN practice app for note taking.
-- [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) - React weather app.
+- 🤖 AI Agents for sales, support, SEO, booking, and automation
+- 🌐 Full-stack web applications
+- 📊 Admin dashboards and business panels
+- ⚡ High-performance Next.js apps
+- ☁️ Cloudflare Workers deployments
+- 🍃 MongoDB-based backend systems
+- 💬 WhatsApp and customer follow-up automation
 
-## All Public Projects
+---
 
-### Frontend and Landing Pages
+## 🛠️ Tech Stack
 
-| Repository | Summary |
-| --- | --- |
-| [Amazone-Clone](https://github.com/I-faizan-ramzan/Amazone-Clone) | Amazon-style landing page built with HTML and CSS. |
-| [Daraz-Clone](https://github.com/I-faizan-ramzan/Daraz-Clone) | Landing page built with HTML and Tailwind CSS. |
-| [Landing-Page](https://github.com/I-faizan-ramzan/Landing-Page) | Landing page built with HTML and Tailwind CSS. |
-| [ProPakistani-Clone](https://github.com/I-faizan-ramzan/ProPakistani-Clone) | ProPakistani landing page clone built with HTML and CSS. |
-| [medely](https://github.com/I-faizan-ramzan/medely) | HTML, CSS, and Bootstrap 5 project. |
-| [medely-clone](https://github.com/I-faizan-ramzan/medely-clone) | Medely clone built with HTML, CSS, and Bootstrap 5. |
-| [CalculateMe](https://github.com/I-faizan-ramzan/CalculateMe) | Simple calculator project. |
-| [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) | React weather app. |
-| [spotify-clone](https://github.com/I-faizan-ramzan/spotify-clone) | Spotify-style clone. |
-| [understandingEvents](https://github.com/I-faizan-ramzan/understandingEvents) | React events practice project. |
+<div align="center">
 
-### Mobile Apps
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,redux,git,github,docker,cloudflare,postman,vscode" />
 
-| Repository | Summary |
-| --- | --- |
-| [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) | React Native expense tracker with navigation and Context API. |
-| [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) | React Native meal app with drawer navigation and Redux Toolkit. |
-| [react-native-places-app](https://github.com/I-faizan-ramzan/react-native-places-app) | Places app with camera access and maps. |
-| [React-Native-Guess-Game-App](https://github.com/I-faizan-ramzan/React-Native-Guess-Game-App) | React Native guess game app. |
-| [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) | Mobile stock trading app built with Expo, React Native, and Tailwind CSS. |
-| [user-authentication-a-React-Native-App](https://github.com/I-faizan-ramzan/user-authentication-a-React-Native-App) | React Native authentication app. |
+</div>
 
-### Backend and MERN
+---
 
-| Repository | Summary |
-| --- | --- |
-| [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) | MERN practice note-taking app. |
-| [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) | Node.js and server-side project collection. |
-| [impact_analyzer](https://github.com/I-faizan-ramzan/impact_analyzer) | Project repository for impact analysis work. |
-| [NextSkills](https://github.com/I-faizan-ramzan/NextSkills) | Practice repository for Next.js and related work. |
+## 📊 GitHub Stats
 
-### Practice, Quizzes, and Profile
+<div align="center">
 
-| Repository | Summary |
-| --- | --- |
-| [Counter-App](https://github.com/I-faizan-ramzan/Counter-App) | Component state update practice app. |
-| [Counter-App1](https://github.com/I-faizan-ramzan/Counter-App1) | Simple counter app. |
-| [Quiz-2-Faizan-Ramzan-](https://github.com/I-faizan-ramzan/Quiz-2-Faizan-Ramzan-) | Quiz practice repository. |
-| [Quiz-3](https://github.com/I-faizan-ramzan/Quiz-3) | Quiz practice repository. |
-| [Quiz3makeup](https://github.com/I-faizan-ramzan/Quiz3makeup) | Quiz practice repository. |
-| [FaizanGMTRNO](https://github.com/I-faizan-ramzan/FaizanGMTRNO) | Personal practice or utility repository. |
-| [I-faizan-ramzan](https://github.com/I-faizan-ramzan/I-faizan-ramzan) | Profile README and portfolio repository. |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=I-faizan-ramzan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-faizan-ramzan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com/?user=I-faizan-ramzan&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-## What I Am Learning
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/I-faizan-ramzan">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=I-faizan-ramzan&theme=react-dark&hide_border=true&area=true&line=2563eb&point=ffffff&bg_color=0f172a&area_color=2563eb33" alt="Contribution Graph" />
+</a>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2563eb/I-faizan-ramzan" alt="GitHub Contributions Calendar" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=I-faizan-ramzan&theme=tokyonight&no-frame=true&margin-w=8&margin-h=15&column=4&row=2" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AgentMax
+
+AI agent platform for business automation, sales, support, appointment booking, SEO, and customer workflows.
+
+### 🚚 FastFly
+
+Shipment and logistics management platform with authentication, dashboards, APIs, and production deployment.
+
+### 💬 AI Sales Follow-up System
+
+Automated follow-up system for email, WhatsApp, SMS, reminders, and lead conversion.
+
+---
+
+## 🌱 Currently Learning
 
 - Agentic AI
-- Large language models
-- RAG systems
-- AI workflow automation
-- System design
-- Cloudflare edge runtime
+- Large Language Models
+- RAG Systems
+- AI Workflow Automation
+- System Design
+- Cloudflare Edge Runtime
 
-## Connect
+---
 
-- GitHub: [I-faizan-ramzan](https://github.com/I-faizan-ramzan)
-- LinkedIn: [Faizan Ramzan](https://www.linkedin.com/in/faizan-ramzan-91bb93175)
+## 🤝 Connect With Me
 
+<div align="center">
+
+<a href="https://github.com/I-faizan-ramzan">
+<img src="https://img.shields.io/badge/GitHub-I--faizan--ramzan-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/faizan-ramzan-91bb93175">
+<img src="https://img.shields.io/badge/LinkedIn-Faizan%20Ramzan-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=I-faizan-ramzan&style=for-the-badge&color=blueviolet" />
+
+### ⭐ Turning ideas into scalable products with code and AI.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+
+</div>
