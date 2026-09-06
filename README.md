@@ -1,26 +1,40 @@
-# Faizan Ramzan
+<div align="center">
 
-Full Stack Software Engineer focused on React, Next.js, React Native, Node.js, and AI-driven product work.
+<img src="./assets/profile-banner.svg" alt="Faizan Ramzan profile banner" />
+
+</div>
 
 ## About
 
-I build web and mobile products with a strong focus on practical business value, clean architecture, and fast delivery.
+I build web and mobile products with a focus on practical business value, clean architecture, and fast delivery.
 
-Current interests:
+## At a Glance
 
-- AI agents and workflow automation
-- SaaS products and admin dashboards
-- React Native apps
-- MERN / Node.js backends
-- Cloudflare edge deployments
-
-## Stack
-
-- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- Mobile: React Native, Expo
-- Backend: Node.js, Express, MongoDB, Mongoose
-- Tooling: Git, GitHub, Docker, Postman
-- Cloud / AI: Cloudflare Workers, AI automation, agent workflows
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Focus</strong><br />
+      Web apps<br />
+      Mobile apps<br />
+      Backend systems<br />
+      AI workflows
+    </td>
+    <td valign="top" width="33%">
+      <strong>Stack</strong><br />
+      React<br />
+      Next.js<br />
+      React Native<br />
+      Node.js
+    </td>
+    <td valign="top" width="33%">
+      <strong>Currently building</strong><br />
+      SaaS products<br />
+      Admin dashboards<br />
+      Automation tools<br />
+      AI-assisted workflows
+    </td>
+  </tr>
+</table>
 
 ## GitHub Snapshot
 
@@ -29,14 +43,27 @@ Current interests:
 - Main focus areas: web apps, mobile apps, backend systems, and practice projects
 - Location: Pakistan
 
+## Core Strengths
+
+<table>
+  <tr>
+    <td valign="top" width="25%"><strong>Web</strong><br />React<br />Next.js<br />Tailwind CSS</td>
+    <td valign="top" width="25%"><strong>Mobile</strong><br />React Native<br />Expo<br />Navigation</td>
+    <td valign="top" width="25%"><strong>Backend</strong><br />Node.js<br />Express<br />MongoDB</td>
+    <td valign="top" width="25%"><strong>AI / Cloud</strong><br />Automation<br />Workers<br />Agent workflows</td>
+  </tr>
+</table>
+
 ## Featured Projects
 
-- [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) - Mobile stock trading app built with Expo, React Native, and Tailwind CSS.
-- [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) - React Native expense tracker with stack navigation, nested tabs, and Context API state management.
-- [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) - React Native meal app with drawer navigation and Redux Toolkit.
-- [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) - Collection of Node.js and server-side projects.
-- [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) - MERN practice app for note taking.
-- [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) - React weather app.
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) | Mobile stock trading app | Expo, React Native, Tailwind CSS |
+| [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) | Expense management | React Native, Context API |
+| [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) | Meal browsing and planning | React Native, Redux Toolkit |
+| [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) | Backend practice and APIs | Node.js, server-side patterns |
+| [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) | Note-taking app | MERN stack |
+| [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) | Weather dashboard | React |
 
 ## All Public Projects
 
@@ -54,6 +81,10 @@ Current interests:
 | [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) | React weather app. |
 | [spotify-clone](https://github.com/I-faizan-ramzan/spotify-clone) | Spotify-style clone. |
 | [understandingEvents](https://github.com/I-faizan-ramzan/understandingEvents) | React events practice project. |
+
+### Visual Notes
+
+The top of this README uses local SVG artwork so the profile stays polished without relying on broken remote card services.
 
 ### Mobile Apps
 
@@ -101,6 +132,8 @@ Current interests:
 - GitHub: [I-faizan-ramzan](https://github.com/I-faizan-ramzan)
 - LinkedIn: [Faizan Ramzan](https://www.linkedin.com/in/faizan-ramzan-91bb93175)
 
-## Note
+<div align="center">
 
-I removed the broken stats, trophies, and contribution graph embeds so the README stays stable and loads cleanly. If you want, I can add back live GitHub cards later using a different service.
+<img src="./assets/footer-banner.svg" alt="Footer banner" />
+
+</div>

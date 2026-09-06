@@ -1,0 +1,16 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020817"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="180" rx="24" fill="url(#bg)"/>
+  <path d="M0 100C180 70 270 135 440 108C610 81 700 25 840 44C980 64 1090 138 1230 118C1370 98 1480 58 1600 76V180H0V100Z" fill="#2563eb" fill-opacity="0.16"/>
+  <path d="M0 122C170 98 320 154 470 128C620 102 720 52 860 66C1000 80 1110 142 1250 124C1390 106 1490 88 1600 100V180H0V122Z" fill="#38bdf8" fill-opacity="0.12"/>
+  <text x="80" y="82" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Code that ships. Products that solve real problems.</text>
+  <text x="80" y="122" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Web, mobile, backend, and AI workflows shaped for clarity and speed.</text>
+  <circle cx="1450" cy="54" r="10" fill="#60a5fa"/>
+  <circle cx="1490" cy="78" r="16" fill="#2563eb"/>
+  <circle cx="1530" cy="52" r="8" fill="#f59e0b"/>
+</svg>
