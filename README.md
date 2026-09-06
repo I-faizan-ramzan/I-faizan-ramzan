@@ -1,40 +1,26 @@
-<div align="center">
+# Faizan Ramzan
 
-<img src="./assets/profile-banner.svg" alt="Faizan Ramzan profile banner" />
-
-</div>
+Full Stack Software Engineer focused on React, Next.js, React Native, Node.js, and AI-driven product work.
 
 ## About
 
-I build web and mobile products with a focus on practical business value, clean architecture, and fast delivery.
+I build web and mobile products with a strong focus on practical business value, clean architecture, and fast delivery.
 
-## At a Glance
+Current interests:
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Focus</strong><br />
-      Web apps<br />
-      Mobile apps<br />
-      Backend systems<br />
-      AI workflows
-    </td>
-    <td valign="top" width="33%">
-      <strong>Stack</strong><br />
-      React<br />
-      Next.js<br />
-      React Native<br />
-      Node.js
-    </td>
-    <td valign="top" width="33%">
-      <strong>Currently building</strong><br />
-      SaaS products<br />
-      Admin dashboards<br />
-      Automation tools<br />
-      AI-assisted workflows
-    </td>
-  </tr>
-</table>
+- AI agents and workflow automation
+- SaaS products and admin dashboards
+- React Native apps
+- MERN / Node.js backends
+- Cloudflare edge deployments
+
+## Stack
+
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- Mobile: React Native, Expo
+- Backend: Node.js, Express, MongoDB, Mongoose
+- Tooling: Git, GitHub, Docker, Postman
+- Cloud / AI: Cloudflare Workers, AI automation, agent workflows
 
 ## GitHub Snapshot
 
@@ -43,36 +29,18 @@ I build web and mobile products with a focus on practical business value, clean 
 - Main focus areas: web apps, mobile apps, backend systems, and practice projects
 - Location: Pakistan
 
-## Core Strengths
-
-<table>
-  <tr>
-    <td valign="top" width="25%"><strong>Web</strong><br />React<br />Next.js<br />Tailwind CSS</td>
-    <td valign="top" width="25%"><strong>Mobile</strong><br />React Native<br />Expo<br />Navigation</td>
-    <td valign="top" width="25%"><strong>Backend</strong><br />Node.js<br />Express<br />MongoDB</td>
-    <td valign="top" width="25%"><strong>AI / Cloud</strong><br />Automation<br />Workers<br />Agent workflows</td>
-  </tr>
-</table>
-
-## Selected Stack
-
-`React` `Next.js` `React Native` `Expo` `Node.js` `Express` `MongoDB` `Tailwind CSS` `TypeScript`
-
 ## Featured Projects
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) | Mobile stock trading app | Expo, React Native, Tailwind CSS |
-| [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) | Expense management | React Native, Context API |
-| [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) | Meal browsing and planning | React Native, Redux Toolkit |
-| [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) | Backend practice and APIs | Node.js, server-side patterns |
-| [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) | Note-taking app | MERN stack |
-| [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) | Weather dashboard | React |
+- [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) - Mobile stock trading app built with Expo, React Native, and Tailwind CSS.
+- [Expense-Tracker-React-Native](https://github.com/I-faizan-ramzan/Expense-Tracker-React-Native) - React Native expense tracker with stack navigation, nested tabs, and Context API state management.
+- [Meal-App-React-Native](https://github.com/I-faizan-ramzan/Meal-App-React-Native) - React Native meal app with drawer navigation and Redux Toolkit.
+- [node-backend-projects](https://github.com/I-faizan-ramzan/node-backend-projects) - Collection of Node.js and server-side projects.
+- [MERN-Practice-Project](https://github.com/I-faizan-ramzan/MERN-Practice-Project) - MERN practice app for note taking.
+- [Weather-App](https://github.com/I-faizan-ramzan/Weather-App) - React weather app.
 
 ## All Public Projects
 
-<details open>
-<summary><strong>Frontend and Landing Pages</strong></summary>
+### Frontend and Landing Pages
 
 | Repository | Summary |
 | --- | --- |
@@ -87,10 +55,7 @@ I build web and mobile products with a focus on practical business value, clean 
 | [spotify-clone](https://github.com/I-faizan-ramzan/spotify-clone) | Spotify-style clone. |
 | [understandingEvents](https://github.com/I-faizan-ramzan/understandingEvents) | React events practice project. |
 
-</details>
-
-<details>
-<summary><strong>Mobile Apps</strong></summary>
+### Mobile Apps
 
 | Repository | Summary |
 | --- | --- |
@@ -101,10 +66,7 @@ I build web and mobile products with a focus on practical business value, clean 
 | [tradex-mobile](https://github.com/I-faizan-ramzan/tradex-mobile) | Mobile stock trading app built with Expo, React Native, and Tailwind CSS. |
 | [user-authentication-a-React-Native-App](https://github.com/I-faizan-ramzan/user-authentication-a-React-Native-App) | React Native authentication app. |
 
-</details>
-
-<details>
-<summary><strong>Backend and MERN</strong></summary>
+### Backend and MERN
 
 | Repository | Summary |
 | --- | --- |
@@ -113,10 +75,7 @@ I build web and mobile products with a focus on practical business value, clean 
 | [impact_analyzer](https://github.com/I-faizan-ramzan/impact_analyzer) | Project repository for impact analysis work. |
 | [NextSkills](https://github.com/I-faizan-ramzan/NextSkills) | Practice repository for Next.js and related work. |
 
-</details>
-
-<details>
-<summary><strong>Practice, Quizzes, and Profile</strong></summary>
+### Practice, Quizzes, and Profile
 
 | Repository | Summary |
 | --- | --- |
@@ -127,12 +86,6 @@ I build web and mobile products with a focus on practical business value, clean 
 | [Quiz3makeup](https://github.com/I-faizan-ramzan/Quiz3makeup) | Quiz practice repository. |
 | [FaizanGMTRNO](https://github.com/I-faizan-ramzan/FaizanGMTRNO) | Personal practice or utility repository. |
 | [I-faizan-ramzan](https://github.com/I-faizan-ramzan/I-faizan-ramzan) | Profile README and portfolio repository. |
-
-</details>
-
-## Visual Notes
-
-The top and bottom of this README use local SVG artwork so the profile stays polished without relying on broken remote card services.
 
 ## What I Am Learning
 
@@ -148,8 +101,3 @@ The top and bottom of this README use local SVG artwork so the profile stays pol
 - GitHub: [I-faizan-ramzan](https://github.com/I-faizan-ramzan)
 - LinkedIn: [Faizan Ramzan](https://www.linkedin.com/in/faizan-ramzan-91bb93175)
 
-<div align="center">
-
-<img src="./assets/footer-banner.svg" alt="Footer banner" />
-
-</div>
